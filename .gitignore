@@ -10,3 +10,7 @@
 Debug*/
 Release*/
 test/test
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
